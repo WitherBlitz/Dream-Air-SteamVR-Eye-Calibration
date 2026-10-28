@@ -1,0 +1,2 @@
+# Preserve the pinned SDK header byte for byte on Windows clones.
+vendor/openvr.h -text
